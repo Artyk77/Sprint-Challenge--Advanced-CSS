@@ -144,7 +144,7 @@ h5 {
   font-family: 'Russo One';
 }
 h1 {
-  font-size: 1rem;
+  font-size: 9rem;
 }
 h2 {
   font-size: 3.2rem;
@@ -225,8 +225,8 @@ img {
   }
 }
 @phone (max-width: 500px) {
-  .main-navigation .nav-container .logo-heading {
-    font-size: 3rem;
+  .main-navigation .nav-container  {
+    font-size: 5rem;
     text-align: center;
   }
 }
@@ -260,7 +260,7 @@ img {
 }
 .home .intro {
   padding: 90px 0 10px;
-  border-bottom: 2px dashed #C0C0C0;
+  border-bottom: 3rem dashed #C0C0C0;
 }
 .home .intro img {
   max-width: 100%;
