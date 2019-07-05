@@ -1,6 +1,7 @@
 // Navigation code here
 
 
+
 nav{
     background-color: @nav-bg;
     font-size: @nav-font;
@@ -13,9 +14,10 @@ nav{
         color: darken(@nav-font, 20%);
         padding-bottom: 2%;
     }
-    
+
     ul{
-        .nav-display(); 
+        .nav-display(); //mixin-1
+
         a{
             font-size: 2rem;
             color: @nav-font;
@@ -24,7 +26,8 @@ nav{
             padding: 0px 10px;
 
                 @media @phone{
-                    font-size: 1.8rem;
+                    font-size: 1.5rem;
                 }
         }
-    } }
+    }
+}

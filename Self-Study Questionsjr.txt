@@ -10,7 +10,7 @@ layout (and perhaps functionality) in a way that is optimized to the screen.
 2. Describe what it means to be mobile first vs desktop first ?
 
 Mobile first design : It means designing for the main function of the site, then aims for higher resolutions (often called progressive
-enhancement). Instead, desktop first design means designing for the highest specifications?—?the best achievable by design- and then 
+enhancement). Instead, desktop first design means designing for the highest specificationsthat can be achieved by design- and then 
 going down to smaller resolutions.
 
 3. What does font-size: 62.5% in the html tag do for us when using rem units?
@@ -25,4 +25,4 @@ making your code easier to maintain. Preprocessors extend CSS with variables, op
 
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
 
-My favorite concept in preprocessing is nesting. My "trouble" one mixins.... 
+My favorite concept in preprocessing is nesting. My "trouble" none. 
